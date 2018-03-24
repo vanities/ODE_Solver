@@ -1,12 +1,10 @@
-/*Adam Mischke
-CSCI/MATH 3180
-Lab Assignment #2
+/* Adam Mischke
 
 Description:
 	This program output estimates the derivatives of 4 relatively simple Ordinary Differential Equations (ODEs),
-	using Euler’s, Heun’s, and Runge-Kutta’s Taylor expansions, with the support of an analytical solution,
+	using Eulerâ€™s, Heunâ€™s, and Runge-Kuttaâ€™s Taylor expansions, with the support of an analytical solution,
 	the program can calculate an absolute error, relative error, and can attempt to quantize Loss of Significant Figures (LOS) 
-	in terms of it’s Catastrophic Cancellation (CC).
+	in terms of itâ€™s Catastrophic Cancellation (CC).
 
 Instructions:
 	First, the user picks a choice of one of the four ODEs (a,b,c,d (lowercase)) 
